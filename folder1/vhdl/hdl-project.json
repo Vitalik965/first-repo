@@ -1,0 +1,15 @@
+{
+    "project_name": "My_AND_Gate",
+    "language": "vhdl",
+    "ghdl_path": "/usr/bin/ghdl",
+    "files": [
+        {
+            "path": "and_gate.vhd",
+            "library": "work"
+        },
+        {
+            "path": "and_gate_tb.vhd",
+            "library": "work"
+        }
+    ]
+}
